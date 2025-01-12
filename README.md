@@ -5,8 +5,19 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
 
 ## Questions
 1. Use yfinance to Extract Stock Data
+   ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Question_1.png)
+
 2. Use Webscraping to Extract Tesla Revenue Data
+   ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Question_2.png)
+
 3. Use yfinance to Extract Stock Data
+  ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Question_3.png)
+
 4. Use Webscraping to Extract GME Revenue Data
+   ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Question_4.png)
+
 5. Plot Tesla Stock Graph
+   ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Tesla.png)
+   
 6. Plot GameStop Stock Graph
+   ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Gamestop.png)
