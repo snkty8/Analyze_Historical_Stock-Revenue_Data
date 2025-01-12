@@ -28,5 +28,5 @@ For this project, you will assume the role of a Data Scientist / Data Analyst wo
     
    ![image](https://github.com/snkty8/Analyze_Historical_Stock-Revenue_Data/blob/main/Gamestop.png)
 
-##Conclusion
+## Conclusion
 Used the ticker function in the yfinance library to extract stock data for Telsa and GameStop. Data was then put into a DataFrame. Screenshot shown in Questions 1 and 2 above. Then used the BeautifulSoup function to scrape and parse the revenue data. Also displayed in a dataFrame. Screen shots shown in Questions 3 and 4. Plots were then created showing the Historical Share Price and Revenue. Screenshots shown in Questions 5 and 6. These plots can now be used to indentify patterns and trends when investing money in the stocks. 
